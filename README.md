@@ -2,9 +2,6 @@
 
 Let me tell you a little about myself.
 
-<img align="right" height=115px width=115px alt="Syzyy" src="https://github.com/PashokSy/PashokSy/blob/main/static/syzyy.jpg" />
-
-
 - 🔭 &nbsp;I’m currently working on becoming a Data Engineer & Data Scientist & Data Analyst :grinning_face_with_sweat:
 - 🌱 &nbsp;I’m currently learning Python, Django :snake:
 - 💬 &nbsp;You can contact me through the contacts shown below 
@@ -20,7 +17,7 @@ Let me tell you a little about myself.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 
 # 📊 GitHub Stats:
-<table style="border: 0">
+<table style="border: none">
 <tr>
 <th>
 
@@ -35,17 +32,5 @@ Let me tell you a little about myself.
 </tr>
 </table>
 
-### 😂 Random Dev Meme
-<img src="https://dynamic-badges.maxalpha.repl.co/meme" width=400 height=300/>
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=PashokSy&icon=0&color=8)](https://visitcount.itsvg.in)
-
-
-
-<!-- Maybee later
-📊 &nbsp;**This week I spent my time on**
-
-![Wwakatime stats]
--->
