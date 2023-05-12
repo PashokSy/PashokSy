@@ -2,7 +2,7 @@
 
 Let me tell you a little about myself.
 
-- 🔭 &nbsp;I’m currently working on becoming a Data Engineer & Data Scientist & Data Analyst :rolling_on_the_floor_laughing:
+- 🔭 &nbsp;I’m currently working on becoming a Data Engineer & Data Scientist & Data Analyst  :rolling_on_the_floor_laughing:
 - 🌱 &nbsp;I’m currently learning Python, Django :snake:
 - 💬 &nbsp;You can contact me through the contacts shown below 
 - ⚡ &nbsp;Fun fact: I like video games, fantasy books and movies :upside_down_face:
