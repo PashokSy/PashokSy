@@ -2,7 +2,7 @@
 
 Let me tell you a little about myself.
 
-<img align="right" height=300px width=300px alt="Syzyy" src="https://github.com/PashokSy/PashokSy/blob/main/static/syzyy.jpg" />
+<img align="right" height=115px width=115px alt="Syzyy" src="https://github.com/PashokSy/PashokSy/blob/main/static/syzyy.jpg" />
 
 
 - 🔭 &nbsp;I’m currently working on becoming a Data Engineer & Data Scientist & Data Analyst :grinning_face_with_sweat:
@@ -36,14 +36,16 @@ Let me tell you a little about myself.
 </table>
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://dynamic-badges.maxalpha.repl.co/meme" width=400 height=300/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PashokSy&icon=0&color=8)](https://visitcount.itsvg.in)
 
 
-<!--
+
+<!-- Maybee later
 📊 &nbsp;**This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=PashokSy&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+![Wwakatime stats]
 -->
