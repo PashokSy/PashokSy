@@ -1,4 +1,4 @@
-### Hey there, I'm glad you visit my github profile <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+### Hey there, I'm glad you visit my github profile <a href="https://github.com/PashokSy"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 Let me tell you a little about myself.
 
