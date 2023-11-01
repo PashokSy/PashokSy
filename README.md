@@ -23,8 +23,5 @@ Let me tell you a little about myself.
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=PashokSy&theme=gotham&hide_border=false) 
-
 ---
 [![](https://visitcount.itsvg.in/api?id=PashokSy&icon=0&color=8)](https://visitcount.itsvg.in)
